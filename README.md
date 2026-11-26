@@ -1,7 +1,13 @@
-<!-- markdownlint-disable MD033 MD013 -->
+<!-- markdownlint-disable MD033 MD013 MD041 -->
+<p align="center">
+  <img src="assets/liquid-glass.gif" width="100%" alt="动态液态玻璃横幅">
+</p>
+
 <h1 align="center">你好，我是 bdpqer</h1>
 
-<p align="center">写一点代码，解决一点具体问题。</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=540&height=42&lines=Android+%2F+Flutter+%2F+TypeScript;Building+useful+little+tools;Local-first.+Offline-friendly." alt="Android / Flutter / TypeScript，构建实用小工具，本地优先，离线友好">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Kotlin">
