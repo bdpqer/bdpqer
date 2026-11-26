@@ -1,12 +1,12 @@
 <!-- markdownlint-disable MD033 MD013 MD041 -->
 <p align="center">
-  <img src="assets/liquid-glass.gif" width="100%" alt="动态液态玻璃横幅">
+  <img src="assets/liquid-glass.gif" width="100%" alt="亮色液态玻璃项目横幅：Bookkeeping、CalendarDiary、Stock-Monitor">
 </p>
 
 <h1 align="center">你好，我是 bdpqer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=540&height=42&lines=Android+%2F+Flutter+%2F+TypeScript;Building+useful+little+tools;Local-first.+Offline-friendly." alt="Android / Flutter / TypeScript，构建实用小工具，本地优先，离线友好">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=540&height=42&lines=Android+%2F+Flutter+%2F+TypeScript;Building+useful+little+tools;Local-first.+Offline-friendly." alt="Android / Flutter / TypeScript，构建实用小工具，本地优先，离线友好">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/bdpqer?tab=repositories">
-    <img src="https://img.shields.io/badge/查看项目-181717?style=for-the-badge&logo=github&logoColor=white" alt="查看 GitHub 项目">
+    <img src="https://img.shields.io/badge/查看项目-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="查看 GitHub 项目">
   </a>
   <a href="https://github.com/bdpqer/bdpqer/issues">
     <img src="https://img.shields.io/badge/一起交流-238636?style=for-the-badge&logo=github&logoColor=white" alt="通过 Issues 交流">
@@ -36,7 +36,7 @@
 ## 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,android,ts,vue,electron,py,c,sqlite,git&theme=dark" alt="Kotlin, Dart, Flutter, Android, TypeScript, Vue, Electron, Python, C, SQLite, Git">
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,android,ts,vue,electron,py,c,sqlite,git&theme=light" alt="Kotlin, Dart, Flutter, Android, TypeScript, Vue, Electron, Python, C, SQLite, Git">
 </p>
 
 ## 精选项目
@@ -52,8 +52,8 @@
 ## GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdpqer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="bdpqer 的 GitHub 统计">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdpqer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="bdpqer 的常用语言">
+  <img src="https://github-readme-stats.vercel.app/api?username=bdpqer&show_icons=true&theme=default&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=334155&border_color=E2E8F0&include_all_commits=true" height="165" alt="bdpqer 的 GitHub 统计">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdpqer&layout=compact&theme=default&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=334155&border_color=E2E8F0&langs_count=8" height="165" alt="bdpqer 的常用语言">
 </p>
 
 ## 更多
